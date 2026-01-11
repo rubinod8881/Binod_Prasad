@@ -6,7 +6,7 @@ I am a seasoned professional with over 16 years of experience in Capital Markets
 - 🔭 **Current Project:** Automating Financial Data & ETL Pipelines with Jenkins and Python.
 - 🌱 **Learning:** Advanced MLOps and AWS Cloud Architecture.
 - 💬 **Expertise:** Data Governance, Platform Stability, and ITIL/Agile Management.
-- 📫 **Contact:** rubinod2007@yahoo.com | [https://www.linkedin.com/in/binodprasad]
+- 📫 **Contact:** rubinod2007@yahoo.com | https://www.linkedin.com/in/binodprasad
 
 ---
 
